@@ -1,0 +1,43 @@
+#a {
+background-color:white ;
+position:absolute;
+border: black dashed 2px;
+left:0px;
+right:0px;
+top: 0px;
+bottom:0px;
+}
+#aa {
+background-color: blue;
+position: relative;
+left:20% ;
+height:200px ;
+width: 300px;
+}
+#ab {
+background-color: red;
+position: static;
+left: 20%;
+height: 200px;
+width: 300px;
+}
+#ac {
+background-color: green;
+position: absolute;
+left: 20%;
+height: 200px;
+width: 300px;
+border: black dashed 2px;
+}
+
+div:>* {
+background-color: ;
+position: ;
+left: ;
+top: ;
+right: ;
+bottom: ;
+height: ;
+width: ;
+}
+
